@@ -1,4 +1,4 @@
-print('hello hello hello')
+print('hello hello h')
 
 ## is used to comment out anything
 
